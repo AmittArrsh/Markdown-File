@@ -10,7 +10,7 @@
 - [Tables](#tables)
 
 # Header 1
-    Headers are defined by '#' symbol. One for H1, two for H2 etc. There are SIX types of Header available.
+Headers are defined by '#' symbol. One for H1, two for H2 etc. There are SIX types of Header available.
 
 ## Header 2
 ### Header 3
@@ -23,7 +23,7 @@
 
 # Quotes
 
-    Quotes are defined by '>' symbol.
+Quotes are defined by '>' symbol.
 
 > This is the First Line of quote.
 > This is the Second Line of Quote. 
@@ -39,7 +39,7 @@
 
 # Emphasis
 
-    Add emphasis with astrisks '*' and underscore '_'.
+Add emphasis with astrisks '*' and underscore '_'.
 
  Two before and after (no spaces) a section of texts makes it bold.
 
@@ -64,7 +64,7 @@ This is my _italictied_ word and this is my **world**.
 
 # Horizontal Rule
 
-    A horizontal rule gives a visible line break. You can create  one by putting THREE or more hypens, astrisks or underscore. [ *, -, _ ]
+A horizontal rule gives a visible line break. You can create  one by putting THREE or more hypens, astrisks or underscore. [ *, -, _ ]
 
  ---
 
@@ -74,8 +74,8 @@ This is my _italictied_ word and this is my **world**.
  <!-- ------------------------------ -->
 
  # Lists
-  
-    Create Unordered lists using '-', '*', '+'
+
+Create Unordered lists using '-', '*', '+'
 
 - Item 1
 - Item 2
@@ -112,12 +112,12 @@ Another list
 
 # Links
 
-    Create a link by sorrounding it with angle brackets <>
+Create a link by sorrounding it with angle brackets <>
 
 <https://www.google.com/>
 
 
-    Create a link with text by sorrounding with brackets, [], and link immediately following with parenthesis ()
+Create a link with text by sorrounding with brackets, [], and link immediately following with parenthesis ()
 
 [Google Homepage](https://www.google.com/)
 
