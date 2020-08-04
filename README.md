@@ -238,3 +238,7 @@ You can add custom CSS to your Markdown to add additional styling to your docume
     }
 </style>
 ---
+
+# More Texts
+
+This is the new line added directly in github Web
